@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oi6o3ay.github.io/2026-1/sitemap.xml
